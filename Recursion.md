@@ -1,4 +1,4 @@
-# 1.Addition of n numbers using recursion 
+## 1.Addition of n numbers using recursion 
 ```c
 #include<stdio.h>
 int add(int n);
@@ -468,7 +468,7 @@ Enter the number:55
 Sum:10
 5 5
 ```
-# 19.Printing a number in binary octal and hexadecimal
+# 19.Printing a number  in binary octal and hexadecimal
 ```c
 #include<stdio.h>
 void convert(int num,int base);
